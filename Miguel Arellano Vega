@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Corpus/Humanidades Digitales</title>
+<body>
+</body>
+</html>
+<?xml version="1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+   xmlns:rng="http://relaxng.org/ns/structure/1.0"
+   xml:lang="es"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="validation/document.xsd">
+   <teiHeader>
+         <fileDesc>
+         <titleStmt>
+            <title type="main">
+               Cartas filosoficas. 
+            </title>
+
+            
+         </titleStmt>
+         <editionStmt>   
+         </editionStmt>
+         <sourceDesc>
+            <bibl>   
+              "Corpus Humanidades Digitales"
+            </bibl>
+      </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+      <text>
+      <body>
+      <div>
+      <front>
+	<h1>Epistola XXI </h1>
+	
+	<text>
+    <body>
+    	<p><q>Hablas de <mentioned>razonar</mentioned>, ser <distinct>libre</distinct> pero nunca de <mentioned>filosofía</mentioned>. ¿Es que cuando <mentioned>reflexionamos</mentioned> sobre el sentido de la <distinct>existencia</distinct> o sobre la <distinct>vida</distinct> y la <distinct>muerte</distinct> no estamos <mentioned>filosofando?</mentioned>.</q></p>
+        <p>Eso piensa nuestro amigo <persName>Epicuro</persName>: <seg><q>Que nadie, mientras sea joven, se muestre <distinct> remiso</distinct> en <mentioned>filosofar</mentioned>, ni, al llegar a viejo, de <mentioned>filosofar</mentioned> se canse. 
+        <p><seg>¿Por qué entonces no hablo de <mentioned>filosofía</mentioned> ni cuando tratamos expresamente de ella? Quizás porque las palabras, con el paso del tiempo, adquieren una pomposidad con la que no te identificas, o se vuelven tan imprecisas que no estás seguro de que lo que haces coincida con ellas. </p></body></seg></seg>
+
+
+	<h2>Segunda Carta</h2>
+
+	<text>
+	<body>
+    <p><seg>“¿Existe otro objeto de <mentioned>reflexión</mentioned> más importante que la <distinct>vida humana</distinct>? ¿Y otro término para designar esa actividad?”.</seg></p>
+    <p>Cuando <mentioned>preguntaban</mentioned> a nuestro amigo <persName>Freud</persName>: <seg>“¿Y cómo puede saberse cuál es el momento apropiado en cada caso?”</seg>, respondía:   <seg>“La mejor regla es esperar que él mismo se haya acercado tanto a lo <distinct>reprimido</distinct> que, siguiendo su propuesta de <mentioned>interpretación</mentioned>, sólo necesite dar unos pasos más para alcanzarlo”</seg>. Creo que el momento ha llegado. <mentioned>Hablemos de filosofía</mentioned>.</p> </text>
+     </body></seg>
+
+
+   <h3>Tercera carta</h3>
+
+   <text>
+   	<body>
+   <p>Se sorprende nuestro amigo <persName>Montaigne</persName> de la poca estima que tenían en su tiempo a la <mentioned>filosofía</mentioned>:</p>
+
+   <p><seg>“Notable es que las cosas, en nuestro siglo, sean tales que la <mentioned>filosofía</mentioned> para la gente de       
+   <mentioned>entendimiento</mentioned>, pase por nombre <distinct>vano</distinct> y <distinct>fantástico</distinct>, de uso nulo y de nulo <mentioned>valor</mentioned>, tanto en reputación como  en efecto”.</p></seg>
+   <p>En el nuestro no <distinct>opinan</distinct> de forma <mentioned>diferente</mentioned>. La <mentioned>filosofía</mentioned> es una <distinct>meditación</distinct> sobre la <mentioned>muerte</mentioned>, dice nuestro amigo <persName>Platón</persName></p>
+   
+   <p>Quizás sea el tema de nuestro <distinct>tiempo<distinct>: ¿hay algo más <mentioned>radical</mentioned> e <mentioned>ineludible</mentioned> que la <mentioned>muerte?</mentioned> ¿La <distinct>vida</distinct>? La <distinct>vida</distinct> es un   <mentioned>capricho</mentioned> de la <distinct>naturaleza</distinct>. Un instante entre dos nadas.</p>
+   <p><distinct>Vivir</distinct>, <mentioned>existir</mentioned>, <distinct>ser</distinct>, <mentioned>pensar</mentioned>, </distinct>querer, <distinct>sentir</distinct>, ¿qué son sino diferentes advocaciones de la <distinct>muerte</distinct>? La <distinct>vida</distinct> es la <distinct>muerte</distinct> consciente de sí misma.</p>
+   <p>¿Demasiado <mentioned>pesimista</mentioned>? Si así lo juzgas es que <mentioned>ignoras</mentioned> la utilidad de la <mentioned>filosofía</mentioned>. ¿Porqué <mentioned>reflexionamos</mentioned>? ¿Para qué? ¿Por qué no nos limitamos a <distinct>existir</distinct>, a dejar que pase el tiempo, a considerar la <distinct>muerte</distinct> como parte de la <mentioned>vida</mentioned>? La <mentioned>filosofía</mentioned> es el estrigilo que elimina las mentiras con las que la ideología, la ignorancia y la costumbre desvirtúan la <mentioned>existencia</mentioned>.</p></text> </body>
+
+ <h4>Cuarta carta</h4>
+
+
+   <text>
+   <body>
+   <p>No hagas caso a nuestro amigo <persName>Epicuro</persName>, ni a nuestro amigo <persName>Montaigne</persName>: <seg>“Puesto que es la <mentioned>filosofía</mentioned> la que nos instruye en la <distinct>vida</distinct>y la infancia ha de instruirse en esto como los demás <distinct>hombres</distinct> de otras edades, ¿por qué no imbuir la <mentioned>filosofía</mentioned> en esos años?”</seg><p>
+   <p>Ni tampoco a nuestro amigo <persName>Horacio</persName>: <seg><distinct>“Útil es a los pobres, útil a los ricos; ni jóvenes ni viejos la descuidarán sin lamentarlo”</distinct></seg>, porque si bien: <seg>“Es necesario servir a la <distinct>filosofía</distinct> si queremos alcanzar nuestra verdadera <distinct>"libertad”</distinct></seg></p>
+   <p>Como afirma nuestro amigo <persName>Epicuro</persName>, o nuestro amigo <persName>Séneca</persName>: <seg>“Sin ella nadie puede <distinct>vivir libre de temor ni inseguridad</distinct>, pues no pasa hora sin que <mentioned>acontezcan</mentioned> cosas que <mentioned>reclamen</mentioned> un consejo que sólo ella puede dar”</seg></p>
+   <p>También lo es, que para encontrar a un ser <distinct>humano</distinct> con <seg>“cierto espíritu crítico, una cierta capacidad de <distinct>análisis</distinct>, una <mentioned>mente ingeniosa y una inteligencia penetrante e imparcial”</mentioned></seg>, como exige nuestro amigo <persName>Luciano</persName>, no bastaría con la linterna de nuestro amigo <persName>Diógenes</persName>.</p>
+   <p>La <mentioned>filosofía</mentioned>, a pesar de las optimistas exhortaciones de nuestros amigos, no es para todos.</p></body></text>
+
+
+
+ <h5>Quinta carta</h5>
+   <text>
+   <body>
+   <p><seg><distinct>“La pereza y la cobardía son las causas de que una gran parte de los <mentioned>hombres</mentioned> permanezcan, gustosamente, en minoría de edad a lo largo de la <mentioned>vida</mentioned>”</distinct></seg>, proclama en pleno siglo de las luces nuestro amigo <persName>Kant</persName>.</p>
+   <p>Dos siglos después nuestro amigo <persName>Freud<persName> ratifica el diagnóstico: <seg><mentioned> “El dominio de la masa por una minoría seguirá demostrándose siempre tan imprescindible como la imposición coercitiva de la labor <mentioned>cultural</mentioned>, pues las masas son perezosas e <distinct>ignorantes</distinct>”</mentioned></seg>.</p>
+   <p>¿Yo? Que no <mentioned>existen</mentioned> seres <distinct>humanos</distinct> ni nombres <distinct>abstractos</distinct> sólo <mentioned>individuos</mentioned> y,  de éstos, sólo unos pocos me <mentioned>interesan</mentioned>.</p></body></text>
+
+
+
+
+  <meta https://www.cartasfilosoficas.com/cartas-desde-el-faro-ii/epistola-xxii/>
+  <p>https://www.cartasfilosoficas.com/cartas-desde-el-faro-ii/epistola-xxii/</p>
+   <p>Epistola XXI. Epistola XXII</p>
+
+
+</body>
+</html>
